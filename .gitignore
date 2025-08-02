@@ -1,1 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
 venv/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Dependency logs
+pip-log.txt

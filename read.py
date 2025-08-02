@@ -4,7 +4,7 @@ import cv2 as cv
 # cv.imshow('Proverbs 12', img)
 
 # Reading Videos
-capture = cv.VideoCapture(1)
+capture = cv.VideoCapture('Videos/acadia_walking.mov')
 
 if not capture.isOpened():
     print("Cannot open camera")
