@@ -13,3 +13,8 @@ venv/
 
 # Dependency logs
 pip-log.txt
+
+# Local Media Folders
+Bible Page Data/
+Photos/
+Videos/
